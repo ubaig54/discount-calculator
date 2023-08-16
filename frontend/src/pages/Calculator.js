@@ -27,7 +27,7 @@ const SendValue = () => {
 
     return (
         <div>
-            <div className="Calculator w-1/4 m-auto bg-slate-100 p-4 mt-8 rounded-md">
+            <div className="Calculator w-1/5 m-auto bg-slate-100 p-4 mt-8 rounded-md">
                 <form onSubmit={handleSubmit}>
 
                     <div className="mb-4">
